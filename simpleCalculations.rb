@@ -20,3 +20,5 @@ puts "Ah I see...Well, #{number.to_i + 1} is a bigger and better number"
 var5 = "stop"
 puts var5.reverse!
 puts var5
+
+#testing to see if this will be pulled to my local computer
